@@ -5,5 +5,8 @@
 - gvt
 - Docker 18.02.0
 - make 2.16.2
+- python3
+- py-pip
+- aws-cli 1.14.17
 
 
