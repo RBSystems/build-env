@@ -9,6 +9,7 @@ RUN apk add make
 RUN apk add python3
 RUN apk add py-pip
 RUN apk add nodejs-npm
+RUN apk add build-base
 RUN pip install awscli
 RUN go get -u github.com/FiloSottile/gvt
 RUN npm install -g @angular/cli@latest
